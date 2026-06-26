@@ -53,7 +53,7 @@ export default function App() {
   const [selected, setSelected] = useState(null)
 
   useEffect(() => {
-    fetch('/data/letni-kina-praha.json', { cache: 'no-store' })
+    fetch('./data/letni-kina-praha.json', { cache: 'no-store' })
       .then((res) => res.json())
       .then((json) => {
         setData(json)
