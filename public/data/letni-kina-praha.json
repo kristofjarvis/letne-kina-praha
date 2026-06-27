@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T15:39:55.329Z",
+  "generatedAt": "2026-06-27T04:00:53.304Z",
   "version": 1,
   "venues": [
     {
@@ -196,20 +196,6 @@
     }
   ],
   "screenings": [
-    {
-      "id": "kasarna-karlin-2026-06-26-21-30-slepice",
-      "venueId": "kasarna-karlin",
-      "venueName": "Kasárna Karlín – letní kino",
-      "area": "Karlín",
-      "district": "Praha 8",
-      "title": "Slepice",
-      "date": "2026-06-26",
-      "time": "21:30",
-      "place": "Prvního pluku 20/2, Praha 8",
-      "price": null,
-      "url": "https://kasarnakarlin.cz/cs/program/2026/06/26/letni-kino-slepice",
-      "source": "scraped:kasarna"
-    },
     {
       "id": "kasarna-karlin-2026-06-29-21-30-okno-do-dvora",
       "venueId": "kasarna-karlin",
@@ -432,7 +418,7 @@
       "url": "https://letnikinoukeplera.cz/cs/uvod",
       "ok": true,
       "status": 200,
-      "bytes": 31177
+      "bytes": 28955
     },
     {
       "url": "https://www.pruhonice-obec.cz/letni-kino/a-1576",
@@ -456,7 +442,7 @@
   "notes": [
     "Oficiálne stránky sú prioritné; GoOut/Kudy z nudy používam len ako zálohu pri problematických zdrojoch.",
     "Niektoré zdroje sú dynamické alebo PDF, preto updater kombinuje scraping a kurátorované oficiálne odkazy.",
-    "Premietania staršie než 2026-06-26 sa pri dennej aktualizácii automaticky vyhadzujú.",
+    "Premietania staršie než 2026-06-27 sa pri dennej aktualizácii automaticky vyhadzujú.",
     "Průhonice, KC Zahrada a Hostivař sú zahrnuté ako blízke zdroje pri Hájoch, ale bez starých premietaní."
   ]
 }
