@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T04:00:26.316Z",
+  "generatedAt": "2026-07-06T04:00:17.887Z",
   "version": 1,
   "venues": [
     {
@@ -555,6 +555,12 @@
       "bytes": 12377
     },
     {
+      "url": "https://www.pruhonice-obec.cz/letni-kino/a-1576",
+      "ok": true,
+      "status": 200,
+      "bytes": 41726
+    },
+    {
       "url": "https://kasarnakarlin.cz/program/",
       "ok": true,
       "status": 200,
@@ -567,12 +573,6 @@
       "bytes": 47354
     },
     {
-      "url": "https://www.pruhonice-obec.cz/letni-kino/a-1576",
-      "ok": true,
-      "status": 200,
-      "bytes": 41725
-    },
-    {
       "url": "https://hostivarskaprehrada.cz/letni-kino-zdarma",
       "ok": true,
       "status": 200,
@@ -582,7 +582,7 @@
   "notes": [
     "Oficiálne stránky sú prioritné; GoOut/Kudy z nudy používam len ako zálohu pri problematických zdrojoch.",
     "Niektoré zdroje sú dynamické alebo PDF, preto updater kombinuje scraping a kurátorované oficiálne odkazy.",
-    "Premietania staršie než 2026-07-05 sa pri dennej aktualizácii automaticky vyhadzujú.",
+    "Premietania staršie než 2026-07-06 sa pri dennej aktualizácii automaticky vyhadzujú.",
     "Průhonice, KC Zahrada a Hostivař sú zahrnuté ako blízke zdroje pri Hájoch, ale bez starých premietaní."
   ]
 }
